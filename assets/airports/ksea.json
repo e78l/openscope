@@ -145,12 +145,12 @@
             "icao": "SUMMA8",
             "name": "Summa Eight",
             "rwy": {
-                "16L": ["NEVJO", "SUMMA"],
-                "16C": ["NEVJO", "SUMMA"],
-                "16R": ["NEVJO", "SUMMA"],
-                "34L": ["NEZUG", "_NEZUG070010", "SUMMA"],
-                "34C": ["NEZUG", "_NEZUG070010", "SUMMA"],
-                "34R": ["NEZUG", "_NEZUG070010", "SUMMA"]
+                "16L": ["@NEVJO", "SUMMA"],
+                "16C": ["@NEVJO", "SUMMA"],
+                "16R": ["@NEVJO", "SUMMA"],
+                "34L": ["@NEVJO", "_NEZUG070010", "SUMMA"],
+                "34C": ["@NEVJO", "_NEZUG070010", "SUMMA"],
+                "34R": ["@NEVJO", "_NEZUG070010", "SUMMA"]
             },
             "exitPoints": {
                 "LKV": ["LKV"],
@@ -162,12 +162,12 @@
             "icao": "BANGR8",
             "name": "Bangor Eight",
             "rwy": {
-                "16L": ["CAVOB", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
-                "16C": ["OTLIE", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
-                "16R": ["WESET", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
-                "34L": ["CUSBU", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]],
-                "34C": ["NESOE", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]],
-                "34R": ["DODVE", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]]
+                "16L": ["#070", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
+                "16C": ["#070", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
+                "16R": ["#070", ["RENBE", "A30+"], "RICHR", "TOMRE", ["BANGR", "A100+"]],
+                "34L": ["#070", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]],
+                "34C": ["#070", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]],
+                "34R": ["#070", ["WUREL", "A31+"], "ATOME", "BREMM", ["BANGR", "A100+"]]
             },
             "exitPoints": {
                 "PANGL": ["PANGL"],
